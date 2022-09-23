@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm [Daanish Goyal](https://linkedin.com/in/daanishgoyal) and you've reached my Dev Space.
+## Hey there, I'm [Daanish Goyal](https://linkedin.com/in/daanishgoyal) and this is my Dev Space.
 
 
 
@@ -24,14 +24,12 @@ I'm a graduate student majoring in Computer Science 🎓 from University Of Flor
 - 🛠 &nbsp; At the moment working with Python, Java, React, Golang, Flask, MySQl, Postgres & AWS.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/daanishgoyal).
 - 📫 &nbsp; How to reach me: [LinkedIn](https://linkedin.com/in/daanishgoyal) or dg5052@gmail.com.
-<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/daanishgoyal/daanishgoyal/blob/master/DaanishGoyal_resume.pdf).
--->
+- 📝 &nbsp; Checkout my [Resume](https://github.com/daanishgoyal/daanishgoyal/blob/master/DaanishGoyal_resume.pdf).
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love to explore new tech and build cool stuff with it.
 - 📰 &nbsp; Reading tech blogs whenever I find a not so common solution to a problem that I personally faced.
 - 🍕 &nbsp; Tech meetups & events.
-- ⚡ &nbsp; Fun fact: I am also passionate about Digital Health and Human Research Methodologies.
 
 ### Languages and Tools:
 
