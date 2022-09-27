@@ -7,7 +7,7 @@
 
 ### Glad to see you here! 
 
-I'm a graduate student majoring in Computer Science 🎓 from University Of Florida 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Software and Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a graduate student majoring in Computer Science from University Of Florida. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Software and Web Development and working on my Data Structures and Algorithms .
 
 #### I am looking for Entry-level Software Development Engineer roles. I am open to both relocating and remote work.
 
@@ -21,15 +21,15 @@ I'm a graduate student majoring in Computer Science 🎓 from University Of Flor
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; At the moment working with Python, Java, React, Golang, Flask, MySQl, Postgres & AWS.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/daanishgoyal).
-- 📫 &nbsp; How to reach me: [LinkedIn](https://linkedin.com/in/daanishgoyal) or dg5052@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/daanishgoyal/daanishgoyal/blob/master/DaanishGoyal_resume.pdf).
+- &nbsp; At the moment working with Python, Java, React, Golang, Flask, MySQl, Postgres & AWS.
+- &nbsp; Most of my projects are available on [Github](https://github.com/daanishgoyal).
+- &nbsp; How to reach me: [LinkedIn](https://linkedin.com/in/daanishgoyal) or dg5052@gmail.com.
+- &nbsp; Checkout my [Resume](https://github.com/daanishgoyal/daanishgoyal/blob/master/DaanishGoyal_resume.pdf).
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love to explore new tech and build cool stuff with it.
-- 📰 &nbsp; Reading tech blogs whenever I find a not so common solution to a problem that I personally faced.
-- 🍕 &nbsp; Tech meetups & events.
+- &nbsp; I love to explore new tech and build cool stuff with it.
+- &nbsp; Reading tech blogs whenever I find a not so common solution to a problem that I personally faced.
+- &nbsp; Tech meetups & events.
 
 ### Languages and Tools:
 
