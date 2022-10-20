@@ -1,5 +1,5 @@
 
-## Hey there, I'm [Daanish Goyal](https://linkedin.com/in/daanishgoyal) and this is my Dev Space.
+## Hey there, I'm [Daanish Goyal](https://daanishgoyal.com) and this is my Dev Space.
 
 
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://daanishgoyal.com)](https://daanishgoyal.com)
