@@ -25,7 +25,7 @@ I'm a graduate student majoring in Computer Science from University Of Florida. 
 - &nbsp; At the moment working with Python, Java, React, Golang, Flask, MySQl, Postgres & AWS.
 - &nbsp; Most of my projects are available on [Github](https://github.com/daanishgoyal).
 - &nbsp; How to reach me: [LinkedIn](https://linkedin.com/in/daanishgoyal) or dg5052@gmail.com.
-- &nbsp; Checkout my [Resume](https://github.com/daanishgoyal/daanishgoyal/blob/master/DaanishgoyalResume.pdf).
+- &nbsp; Checkout my [Resume](https://github.com/daanishgoyal/daanishgoyal/blob/master/Daanish_Resume.pdf).
 ### My Absolute Favorites:
 
 - &nbsp; I love to explore new tech and build cool stuff with it.
